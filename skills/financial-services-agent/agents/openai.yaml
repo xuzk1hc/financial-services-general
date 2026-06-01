@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Services Agent"
+  short_description: "Source-backed finance workflows for agents"
+  default_prompt: "Use $financial-services-agent to create a source-backed finance analysis workflow and deliverable."
