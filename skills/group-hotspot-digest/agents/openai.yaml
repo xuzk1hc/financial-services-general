@@ -1,0 +1,4 @@
+interface:
+  display_name: "Group Hotspot Digest"
+  short_description: "Summarize stock chat groups into investable hotspots"
+  default_prompt: "Use $group-hotspot-digest to summarize my Feishu, Discord, or WeChat stock group messages into a hotspot investment analysis."
